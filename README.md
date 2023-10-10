@@ -106,7 +106,6 @@ python server/seed.py
 
 Add validations to the `Camper` model:
 
-- must have a `name`
 - must have an `age` between 8 and 18
 
 Add validations to the `Signup` model:
